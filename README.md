@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MCDelacoe
-- 👀 I’m interested in Embedded Software Engineering, FPGA and Electronics.
+- 👀 I’m interested in Embedded Software, FPGAs and Electronics.
 - 📫 How to reach me:  personal - maxdelacoe@gmail.com
 
 <!---
